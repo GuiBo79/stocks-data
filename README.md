@@ -1,2 +1,2 @@
 # stocks-data
-Stocks Managament and Analyses 
+Stocks Managament and Analysis 
